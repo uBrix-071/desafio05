@@ -1,8 +1,7 @@
 # desafio05
 Desafio 05 curso em vídeo
 Utilizei HTML puro, conhecimento de listas, links, formatações de texto e adição de imagens.
-<code>
-    <!DOCTYPE html>
+    '''<!DOCTYPE html>
     <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
@@ -27,5 +26,4 @@ Utilizei HTML puro, conhecimento de listas, links, formatações de texto e adi�
         <li><img src="icone-facebook.png" alt="logo facebook"><a href="https://www.facebook.com/profile.php?id=61571411257222&locale=pt_BR">Facebook</a> - Da uma olhada no meu Facebook.</li>
     </ul>
     </body>
-    </html>
-</code>
+    </html>'''
