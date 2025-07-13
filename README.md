@@ -1,29 +1,38 @@
-# desafio05
-Desafio 05 curso em vídeo
-Utilizei HTML puro, conhecimento de listas, links, formatações de texto e adição de imagens.
-    '''<!DOCTYPE html>
-    <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-        <title>Social</title>
-    </head>
-    <body>
-        <h1>Minhas redes sociais</h1>
-        <h2>Quem sou eu?</h2>
-        <img src="foto_site400.png" alt="Foto de perfil">
-        <p>Meu nome é <strong>Brian Figueredo Silva</strong>, tenho 20 anos, natural de Salvador - BA, <br>
-        casado com minha linda esposa <strong>Stephany Santos Figueredo</strong>. Atualmente estou estudando <br>
-    HTML, CSS e JavaScript para ingressar no mundo da tecnologia, amo esportes, natureza e programar tem sido um execelente aprendizado <br>
-    dia após dia. I'm a begginer in English and in live, nice to meet you. </p>
-    <p><em>Jesus te ama!</em></p>
-    <h2>Como falar comigo?</h2>
-    <ul type="square">
-        <li><img src="icone-linkedin.png" alt="logo linkedin"><a href="https://www.linkedin.com/in/briansilva-dev/" target="_blank">Linkedin</a> - Me adiciona no Linkedin.</li>
-        <li><img src="icone-github.png" alt="logo github"><a href="https://github.com/uBrix-071" target="_blank"> GitHub</a> - Acessa meu repositório público do GitHub.</li>
-        <li><img src="icone-instagram.png" alt="logo instagram"><a href="https://www.instagram.com/ubrix_/" target="_blank">Instagram</a> - Me acompanha no insta.</li>
-        <li><img src="icone-facebook.png" alt="logo facebook"><a href="https://www.facebook.com/profile.php?id=61571411257222&locale=pt_BR">Facebook</a> - Da uma olhada no meu Facebook.</li>
-    </ul>
-    </body>
-    </html>'''
+# Desafio 05
+Desafio do Curso em Vídeo - **HTML5 e CSS3 (Módulo 1)**
+Neste projeto, utilizei **HTML puro** para praticar:
+
+- Listas ordenadas e não ordenadas
+- Links externos com ícones
+- Formatação de texto
+- Inserção de imagens
+  
+   --
+
+## 👤 Quem sou eu?
+
+![Foto de perfil](C:\Users\Brian\Documents\uBrix\HTML-CSS\desafios\d002)
+
+Meu nome é **Brian Figueredo Silva**, tenho 20 anos, sou natural de *Salvador - BA*  
+Sou casado com minha linda esposa **Stephany Santos Figueredo**.  
+Atualmente estou estudando **HTML, CSS e JavaScript** para ingressar no mundo da tecnologia.
+
+Amo esportes, natureza e programar tem sido um excelente aprendizado dia após dia.  
+_I'm a beginner in English and in life, nice to meet you._
+
+**Jesus te ama! ❤️**
+
+---
+
+## 📲 Como falar comigo?
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](h[ttps://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/briansilva-dev/))
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/uBrix-071))
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/seu-usuario](https://www.instagram.com/ubrix_/))
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://facebook.com/seu-usuario](https://www.facebook.com/profile.php?id=61571411257222&locale=pt_BR))
+
+  ---
+
+### ✨ Obrigado por visitar!
+
+
